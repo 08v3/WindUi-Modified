@@ -21,7 +21,7 @@ b.Heartbeat
 local e=cloneref(game:GetService"UserInputService")
 local f=cloneref(game:GetService"TweenService")
 local g=cloneref(game:GetService"LocalizationService")
-local cloneref(h=game:GetService"HttpService")
+local h=cloneref(game:GetService"HttpService")
 
 local i="https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
 
